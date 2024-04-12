@@ -21,3 +21,9 @@
 * Make sure docker is running in your host machine
 
 ### Now lets create a dummy notebook to check the setup
+
+### Common Commands
+
+* Get AWS account ID
+
+    ```aws sts get-caller-identity --query Account --output text```
