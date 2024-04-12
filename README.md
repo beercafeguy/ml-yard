@@ -1,7 +1,28 @@
 # Basic playground of my ML Learning
 
-### Create virtual environment and activate the same
+### Python Setup
+* Create virtual environment and activate the same. <br>
 ```python3 -m venv .venv```
 <br/>
 ```.\.venv\Scripts\activate```
 <br/>
+
+* Install requirements <br>
+```python3 -m pip install --upgrade pip```
+<br>
+```pip install -r requirements.txt```
+<br/>
+
+### Commet setup 
+* Make sure you have an .env file in root directory.
+* lets add COMET_API_KEY and COMET_PROJECT_NAME to that .env file.
+<br>
+```
+COMET_API_KEY=[YOUR COMET API KEY]
+COMET_PROJECT_NAME=[YOUR COMET PROJECT NAME]
+```
+
+### Docker Setup
+* Make sure docker is running in your host machine
+
+### Now lets create a dummy notebook to check the setup
