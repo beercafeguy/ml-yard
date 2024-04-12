@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+python-dotenv
+ipytest
+tensorflow==2.14
+sagemaker
+sagemaker[local]
+ruff
+nbformat
+nbdev
+nbclient
+ipykernel
+Flask
+comet-ml
+seaborn

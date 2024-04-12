@@ -1,0 +1,17 @@
+Hey I have this dataset with below structure. Can you please provide me matplotlib code for printing the distribution of categorical columns in the data.
+
+ #   Column             Non-Null Count  Dtype  
+---  ------             --------------  -----  
+ 0   species            344 non-null    object 
+ 1   island             344 non-null    object 
+ 2   culmen_length_mm   344 non-null    float64
+ 3   culmen_depth_mm    344 non-null    float64
+ 4   flipper_length_mm  344 non-null    float64
+ 5   body_mass_g        344 non-null    float64
+ 6   sex                344 non-null    object
+
+
+
+ #####################################################################################
+
+ 
