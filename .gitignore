@@ -2,3 +2,5 @@
 tmp
 .venv
 code
+kaggle.json
+*.zip

@@ -15,3 +15,4 @@ ipykernel
 Flask
 comet-ml
 seaborn
+kaggle
