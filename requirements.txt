@@ -16,4 +16,4 @@ Flask
 comet-ml
 seaborn
 opendatasets
-pandas
+scipy
