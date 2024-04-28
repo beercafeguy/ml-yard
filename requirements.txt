@@ -21,3 +21,4 @@ xgboost
 pydot
 graphviz
 pydot-ng
+lightgbm
