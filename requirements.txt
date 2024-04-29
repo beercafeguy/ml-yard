@@ -22,3 +22,5 @@ pydot
 graphviz
 pydot-ng
 lightgbm
+pyspark
+pyfarmhash
