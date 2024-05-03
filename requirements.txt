@@ -24,3 +24,4 @@ pydot-ng
 lightgbm
 pyspark
 pyfarmhash
+plotly
